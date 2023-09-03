@@ -1,0 +1,42 @@
+#logo{
+    width: 75px;
+    height: 75px;
+    float: left;
+    position: relative;
+    left: 50px;
+    background-color: #fff;
+    transition: all 0.5s ease;
+}
+
+#nav-links{
+    text-align: center;
+    position: relative;
+    right: 50px;
+}
+
+.nav-link {
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    padding: 20px 20px;
+    font-weight: 100;
+    text-decoration: none;
+    transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.nav-link:hover {
+    color: #9ACD32;
+    text-decoration: underline;
+}
+
+#preorder {
+    border-radius: 20px;
+    background-color: #9ACD32;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+#preorder:hover {
+    background-color: #b2ed39;
+    color: black;
+}
