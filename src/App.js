@@ -2,6 +2,7 @@ import './App.css';
 import NavbarE from './Components/Navbar';
 import Hero from './Components/Hero';
 import About from './Components/About';
+import Testimonials from './Components/Testimonials';
 
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
       </section>
       <section id="about">
         <About />
+      </section>
+      <section id="testimonials">
+        <Testimonials />
       </section>
     </div>
   );

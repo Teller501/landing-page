@@ -1,0 +1,28 @@
+.title{
+    text-align: center;
+    position: relative;
+    font-size: 3rem;
+    font-weight: 600;
+    color: black;
+}
+
+.testimonial {
+    display: flex;
+    align-items: center;
+    height: 50vh;
+}
+
+.testimonial-card {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
+
+.stars-span {
+    margin-bottom: 200px;
+}
+
+.testimonial-container{
+    height: 50vh;
+}
+  

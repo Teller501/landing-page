@@ -13,7 +13,7 @@ function NavbarE() {
             <Nav.Link href="#About" className='nav-link'>About</Nav.Link>
             <Nav.Link href="#How-it-works" className='nav-link'>How It Works</Nav.Link>
             <Nav.Link href="#Testimonials" className='nav-link'>Testimonials</Nav.Link>
-            <Nav.Link href="#Preorder" id='preorder' className='nav-link'>Pre-order Now</Nav.Link>
+            <Nav.Link href="#Preorder" id='preorder' className='nav-link'>Sign-up Now</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

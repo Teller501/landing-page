@@ -13,6 +13,7 @@
     position: relative;
     left: 0;
     z-index: 0;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   }
 .about-white{
     background-color: #fff;
@@ -21,6 +22,8 @@
     position: relative;
     left: 0;
     z-index: 0;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 100px;
 }
 
 .about-text{
@@ -44,4 +47,11 @@
     top: 45px;
     width: 50%;
     height: auto;
+}
+
+.features{
+    font-size: 3rem;
+    font-weight: 600;
+    background-color: #f3fae6;
+    margin: 0;
 }
