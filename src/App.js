@@ -3,6 +3,7 @@ import NavbarE from './Components/Navbar';
 import Hero from './Components/Hero';
 import About from './Components/About';
 import Testimonials from './Components/Testimonials';
+import SingUp from './Components/SignUp';
 
 function App() {
   return (
@@ -18,6 +19,9 @@ function App() {
       </section>
       <section id="testimonials">
         <Testimonials />
+      </section>
+      <section id="signup">
+        <SingUp />
       </section>
     </div>
   );

@@ -49,6 +49,11 @@
   height: auto;
 }
 
+.about-img:hover {
+  transform: scale(1.05);
+  transition: 0.5s;
+}
+
 .features {
   font-size: 3rem;
   font-weight: 600;

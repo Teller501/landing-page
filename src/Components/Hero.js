@@ -1,6 +1,6 @@
 import './Hero.css';
 import heroImage from '../Assets/landing-page-main-pic.png';
-import {Container, Row, Col} from 'react-bootstrap';
+import {Container, Row, Col, Button} from 'react-bootstrap';
 
 function Hero() {
     return (
@@ -16,6 +16,11 @@ function Hero() {
         <Row>
           <Col className="hero-image">
             <img src={heroImage} alt="hero" />
+          </Col>
+        </Row>
+        <Row>
+          <Col className="hero-button">
+            <Button size="lg" className="sign-up-button">Sign Up</Button>
           </Col>
         </Row>
       </Container>
