@@ -1,7 +1,7 @@
 import './App.css';
-import NavbarE from './Navbar';
-import Hero from './Hero';
-import About from './About';
+import NavbarE from './Components/Navbar';
+import Hero from './Components/Hero';
+import About from './Components/About';
 
 function App() {
   return (

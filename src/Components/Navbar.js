@@ -1,5 +1,5 @@
 import './Navbar.css';
-import logo from './logo.svg';
+import logo from '../logo.svg';
 import {Navbar, Container, Nav} from 'react-bootstrap';
 
 function NavbarE() {

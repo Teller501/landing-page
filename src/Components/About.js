@@ -1,10 +1,10 @@
 import './About.css';
-import productimg from './Assets/product-image.png';
-import productimg2 from './Assets/product-image-2.png';
-import productimg3 from './Assets/product-image-3.png';
-import productimg4 from './Assets/product-image-4.png';
-import productimg5 from './Assets/product-image-5.png';
-import productimg6 from './Assets/product-image-6.png';
+import productimg from '../Assets/product-image.png';
+import productimg2 from '../Assets/product-image-2.png';
+import productimg3 from '../Assets/product-image-3.png';
+import productimg4 from '../Assets/product-image-4.png';
+import productimg5 from '../Assets/product-image-5.png';
+import productimg6 from '../Assets/product-image-6.png';
 import {Container, Row, Col, Image} from 'react-bootstrap';
 
 function About() {

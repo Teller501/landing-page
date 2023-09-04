@@ -1,5 +1,5 @@
 import './Hero.css';
-import heroImage from './Assets/landing-page-main-pic.png';
+import heroImage from '../Assets/landing-page-main-pic.png';
 import {Container, Row, Col} from 'react-bootstrap';
 
 function Hero() {
